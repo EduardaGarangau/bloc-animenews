@@ -7,6 +7,7 @@ O projeto foi um desafio proposto pela Flutterando Masterclass para consumir uma
 * Padrão `Bloc`
 * Consumo de API 
 * Lista infinita 
+* Testes Unitários
 * Versão Flutter: `3.3.7`
 
 ## Resultado Final: 

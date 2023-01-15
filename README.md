@@ -1,4 +1,4 @@
-# AnimeNews - Usando Bloc
+# 📱 AnimeNews - Usando Bloc
 
 O projeto foi um desafio proposto pela Flutterando Masterclass para consumir uma API de notícias de Anime usando o padrão Bloc.
 
